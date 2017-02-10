@@ -1,6 +1,7 @@
 {
 	"name": "inluxc/openerp-php-connector",
-	"type": "library",
+    "version": "0.1.0",
+    "type": "library",
 	"description": "PHP Connector to Openerp",
 	"require": {
 		"phpxmlrpc/phpxmlrpc": "4.0.x",
